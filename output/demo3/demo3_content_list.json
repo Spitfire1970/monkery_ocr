@@ -1,0 +1,20 @@
+[
+    {
+        "type": "text",
+        "text": "I like listening to music ",
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "text": "$$\nP ( Y = 1 \\mid X , T = t ) = \\Phi \\left( { \\frac { g _ { t } ( X ) } { \\sqrt { 1 + h _ { t } ^ { 2 } ( X ) } } } \\right)\n$$",
+        "text_format": "latex",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/adac7b071d8852e631b0a747a19cc1416929dba6e3aecceed75636e671ec867e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    }
+]

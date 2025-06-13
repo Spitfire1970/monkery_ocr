@@ -1,0 +1,608 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        599,
+                        190,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                599,
+                                190,
+                                611
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        599,
+                                        190,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "I like listening to music",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "interline_equation",
+                    "bbox": [
+                        197,
+                        629,
+                        399,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        197,
+                                        629,
+                                        399,
+                                        665
+                                    ],
+                                    "score": 1.0,
+                                    "content": "P ( Y = 1 \\mid X , T = t ) = \\Phi \\left( { \\frac { g _ { t } ( X ) } { \\sqrt { 1 + h _ { t } ^ { 2 } ( X ) } } } \\right)",
+                                    "type": "interline_equation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                641
+                            ],
+                            "spans": [],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                641,
+                                399,
+                                653
+                            ],
+                            "spans": [],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                653,
+                                399,
+                                665
+                            ],
+                            "spans": [],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                665,
+                                399,
+                                677
+                            ],
+                            "spans": [],
+                            "index": 5
+                        }
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        69,
+                        479,
+                        566
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                82,
+                                69,
+                                479,
+                                566
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        566
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                69,
+                                                479,
+                                                566
+                                            ],
+                                            "score": 0.954,
+                                            "type": "image",
+                                            "image_path": "adac7b071d8852e631b0a747a19cc1416929dba6e3aecceed75636e671ec867e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        234.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        234.66666666666666,
+                                        479,
+                                        400.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        400.3333333333333,
+                                        479,
+                                        566.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                595.2000122070312,
+                841.9199829101562
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        69,
+                        479,
+                        566
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                82,
+                                69,
+                                479,
+                                566
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        566
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                69,
+                                                479,
+                                                566
+                                            ],
+                                            "score": 0.954,
+                                            "type": "image",
+                                            "image_path": "adac7b071d8852e631b0a747a19cc1416929dba6e3aecceed75636e671ec867e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        234.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        234.66666666666666,
+                                        479,
+                                        400.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        400.3333333333333,
+                                        479,
+                                        566.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "tables": [],
+            "interline_equations": [
+                {
+                    "type": "interline_equation",
+                    "bbox": [
+                        197,
+                        629,
+                        399,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        197,
+                                        629,
+                                        399,
+                                        665
+                                    ],
+                                    "score": 1.0,
+                                    "content": "P ( Y = 1 \\mid X , T = t ) = \\Phi \\left( { \\frac { g _ { t } ( X ) } { \\sqrt { 1 + h _ { t } ^ { 2 } ( X ) } } } \\right)",
+                                    "type": "interline_equation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                641
+                            ],
+                            "spans": [],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                641,
+                                399,
+                                653
+                            ],
+                            "spans": [],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                653,
+                                399,
+                                665
+                            ],
+                            "spans": [],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                665,
+                                399,
+                                677
+                            ],
+                            "spans": [],
+                            "index": 5
+                        }
+                    ]
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        478,
+                        71,
+                        526,
+                        564
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                478,
+                                71,
+                                526,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        478,
+                                        71,
+                                        526,
+                                        564
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        599,
+                        190,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                599,
+                                190,
+                                611
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        599,
+                                        190,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "I like listening to music",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2000122070312,
+                        841.9199829101562
+                    ],
+                    "bbox_fs": [
+                        70,
+                        599,
+                        190,
+                        611
+                    ]
+                },
+                {
+                    "type": "interline_equation",
+                    "bbox": [
+                        197,
+                        629,
+                        399,
+                        665
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                665
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        197,
+                                        629,
+                                        399,
+                                        665
+                                    ],
+                                    "score": 1.0,
+                                    "content": "P ( Y = 1 \\mid X , T = t ) = \\Phi \\left( { \\frac { g _ { t } ( X ) } { \\sqrt { 1 + h _ { t } ^ { 2 } ( X ) } } } \\right)",
+                                    "type": "interline_equation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3.5,
+                    "virtual_lines": [
+                        {
+                            "bbox": [
+                                197,
+                                629,
+                                399,
+                                641
+                            ],
+                            "spans": [],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                641,
+                                399,
+                                653
+                            ],
+                            "spans": [],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                653,
+                                399,
+                                665
+                            ],
+                            "spans": [],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                197,
+                                665,
+                                399,
+                                677
+                            ],
+                            "spans": [],
+                            "index": 5
+                        }
+                    ],
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2000122070312,
+                        841.9199829101562
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        82,
+                        69,
+                        479,
+                        566
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                82,
+                                69,
+                                479,
+                                566
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        566
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                69,
+                                                479,
+                                                566
+                                            ],
+                                            "score": 0.954,
+                                            "type": "image",
+                                            "image_path": "adac7b071d8852e631b0a747a19cc1416929dba6e3aecceed75636e671ec867e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        69,
+                                        479,
+                                        234.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        234.66666666666666,
+                                        479,
+                                        400.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        82,
+                                        400.3333333333333,
+                                        479,
+                                        566.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        595.2000122070312,
+                        841.9199829101562
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "ocr",
+    "_version_name": "1.1.0"
+}
