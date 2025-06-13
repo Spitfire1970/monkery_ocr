@@ -53,3 +53,5 @@ _build/
 output/
 build/
 models/
+myenv/
+model_weight/
